@@ -5,7 +5,6 @@
 - RETROTHING1
 
 # 📰 News
-
 - NEWSTHING1
 
 # 🗣 Topics to discuss
