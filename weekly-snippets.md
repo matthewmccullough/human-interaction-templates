@@ -5,6 +5,8 @@ _Instructions: (Delete before posting)_
 - _List the key players and when to expect the next step to take place._
 - _Aim for items that are relevant to those working with you, not just to you personally._
 
+_Attribution: Headings crafted or refined by EA, CW. Description format by MJM_
+
 
 ## Key Updates 🔑
 1. **Gist of the update in 5 words or less**. Share detail of the progress you or your team made on this initiative. Link out to the work in progress.
