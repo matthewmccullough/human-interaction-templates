@@ -7,7 +7,7 @@ _Instructions: (Delete before posting)_
 
 _Attribution: Headings crafted or refined by EA, CW. Description format by MJM_
 
-
+```markdown
 ## Key Updates 🔑
 1. **Gist of the update in 5 words or less**. Share detail of the progress you or your team made on this initiative. Link out to the work in progress. What are you working on? Making progress on your priorities? What progress have you made over the last week on key projects or workstreams?
 2. TBD
@@ -27,3 +27,4 @@ _Attribution: Headings crafted or refined by EA, CW. Description format by MJM_
 1. **Gist of the task in 5 words or less**. What are you working on that will affect or help others? When can we expect it? Who's on it? Link out to work in progress. What are your focus areas for the upcoming week?
 2. TBD
 3. TBD
+```
