@@ -1,8 +1,8 @@
 # _MEMO FOR THING_
 _SUBTITLE HERE_
 
-Authored by: _PERSON_
-Current status: _ALPHA, WIP, DRAFT, BETA, COMPLETE, PUBLISHED_
+Authored by: _PERSON_  
+Current status: _ALPHA, WIP, DRAFT, BETA, COMPLETE, PUBLISHED_  
 Last updated: _DATE_
 
 ## Audience 👂
