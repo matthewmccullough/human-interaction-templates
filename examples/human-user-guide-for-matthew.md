@@ -43,8 +43,8 @@ WHY: We can often do more with less. I'd like to begin with this mindset and exp
 WHY: Your mind is [designed for having ideas, not holding them](https://www.thedolectures.com/david-allen-the-mind-is-for-having-ideas-not-holding-them/).
 1. WHAT: **Chat**. I consider myself a nerd, but am ostensibly outgoing, and love to talk with others and learn more about their work and tactics.  
 WHY: I get a dopamine rush from expanding the space of what I know I don't know. Then, knowing what I don't know lets me intentionally chose what to learn next.
-1. WHAT: **Intentional tool use**. I believe Slack is our most mis-used communication tool at the company.  
-WHY: I believe Slack's best use is for real time "unstructured" banter during the workday and during meetings for backchannel. It should not be a source of escalation or reference-able decisions. People use it as an interrupt-based escalation, and means to create false urgency when other communication streams such as notifications and emails are poorly managed.
+1. WHAT: **Intentional tool use**. I believe Chat is our most mis-used communication tool at the company.  
+WHY: I believe Chat's best use is for real time "unstructured" banter during the workday and during meetings for backchannel. It should not be a source of escalation or reference-able decisions. People use it as an interrupt-based escalation, and means to create false urgency when other communication streams such as notifications and emails are poorly managed.
 
 ## How can people earn an extra gold star with you?
 
