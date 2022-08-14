@@ -1,4 +1,5 @@
 # Newsletters
+- [Farnam Street](https://fs.blog/). Mental models. Decision making. Strategy. All timeless recommendations.
 - [DevOpsish](https://devopsish.com/). DevOps happenings, news, and tools from an industry practictioner.
 - [Last Week in AWS](https://www.lastweekinaws.com/). Cloud development and software news with a bent towards AWS.
 - [Duarte](https://www.duarte.com/presentation-skills-resources/). Presentation tips and skills development.
@@ -6,3 +7,4 @@
 - [DevOps'ish](https://devopsish.com/). DevOps news from Chris Short, Redhat and now Amazon.
 - [Android Weekly](https://androidweekly.net/). Android software development news.
 - [The Engineering Manager](https://theengineeringmanager.substack.com/). Discusses the challenges of technical people management.
+- [Duarte Design](https://www.duarte.com/nancy-newsletter/). Presentation and slide design guidance.
