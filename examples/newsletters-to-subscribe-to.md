@@ -21,3 +21,6 @@
 - [Harvard Business Review (HBR)](https://hbr.org/email-newsletters)
 - [Financial Times](https://www.ft.com/)
 - [New York Times, On Tech](https://www.nytimes.com/newsletters/on-tech)
+- [Itamar Gilad's High-Impact Product Management](https://itamargilad.com/newsletter/)
+- [Lara Hogan: Wherewithall](https://wherewithall.com/lara/)
+- [Marty Cagan's Silcon Valley Product Group (SVPG)](https://www.svpg.com/articles/)
