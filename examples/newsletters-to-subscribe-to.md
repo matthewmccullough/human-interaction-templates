@@ -9,3 +9,15 @@
 - [The Engineering Manager](https://theengineeringmanager.substack.com/). Discusses the challenges of technical people management.
 - [Duarte Design](https://www.duarte.com/nancy-newsletter/). Presentation and slide design guidance.
 - [The PinkCast](https://www.danpink.com/pinkcast/). Dan Pink's derivatives from his books on selling, marketing, and creativity.
+- [Inside Daily Brief](https://inside.com/daily). Quick Tweet-sized daily headline news.
+- [The WSJ CIO Journal](https://www.wsj.com/news/cio-journal)
+- [Manager Tools](https://www.manager-tools.com/products/personal-license)
+- [Business Insider](https://www.businessinsider.com/news)
+- [The Information](https://www.theinformation.com/newsletters)
+- [Johanna Rothman's Pragmatic Manager](https://www.jrothman.com/pragmaticmanager/)
+- [iOS Dev Weekly](https://iosdevweekly.com/)
+- [Business Made Simple](https://businessmadesimple.com/daily/)
+- [Lighthouse](https://getlighthouse.com/blog/). People management.
+- [Harvard Business Review (HBR)](https://hbr.org/email-newsletters)
+- [Financial Times](https://www.ft.com/)
+- [New York Times, On Tech](https://www.nytimes.com/newsletters/on-tech)
