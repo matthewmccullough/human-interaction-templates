@@ -5,3 +5,4 @@
 - [Tomasz Tunguz, VC at Redpoint](https://tomtunguz.com/). Insightful content on startup operation and valuation from a beacon of the industry.
 - [DevOps'ish](https://devopsish.com/). DevOps news from Chris Short, Redhat and now Amazon.
 - [Android Weekly](https://androidweekly.net/). Android software development news.
+- [The Engineering Manager](https://theengineeringmanager.substack.com/). Discusses the challenges of technical people management.
