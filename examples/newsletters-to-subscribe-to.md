@@ -8,3 +8,4 @@
 - [Android Weekly](https://androidweekly.net/). Android software development news.
 - [The Engineering Manager](https://theengineeringmanager.substack.com/). Discusses the challenges of technical people management.
 - [Duarte Design](https://www.duarte.com/nancy-newsletter/). Presentation and slide design guidance.
+- [The PinkCast](https://www.danpink.com/pinkcast/). Dan Pink's derivatives from his books on selling, marketing, and creativity.
