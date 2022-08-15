@@ -1,4 +1,26 @@
 # Newsletters
+- [Farnam Street](https://fs.blog/). Mental models. Decision making. Strategy. All timeless recommendations.
 - [DevOpsish](https://devopsish.com/). DevOps happenings, news, and tools from an industry practictioner.
 - [Last Week in AWS](https://www.lastweekinaws.com/). Cloud development and software news with a bent towards AWS.
 - [Duarte](https://www.duarte.com/presentation-skills-resources/). Presentation tips and skills development.
+- [Tomasz Tunguz, VC at Redpoint](https://tomtunguz.com/). Insightful content on startup operation and valuation from a beacon of the industry.
+- [DevOps'ish](https://devopsish.com/). DevOps news from Chris Short, Redhat and now Amazon.
+- [Android Weekly](https://androidweekly.net/). Android software development news.
+- [The Engineering Manager](https://theengineeringmanager.substack.com/). Discusses the challenges of technical people management.
+- [Duarte Design](https://www.duarte.com/nancy-newsletter/). Presentation and slide design guidance.
+- [The PinkCast](https://www.danpink.com/pinkcast/). Dan Pink's derivatives from his books on selling, marketing, and creativity.
+- [Inside Daily Brief](https://inside.com/daily). Quick Tweet-sized daily headline news.
+- [The WSJ CIO Journal](https://www.wsj.com/news/cio-journal)
+- [Manager Tools](https://www.manager-tools.com/products/personal-license)
+- [Business Insider](https://www.businessinsider.com/news)
+- [The Information](https://www.theinformation.com/newsletters)
+- [Johanna Rothman's Pragmatic Manager](https://www.jrothman.com/pragmaticmanager/)
+- [iOS Dev Weekly](https://iosdevweekly.com/)
+- [Business Made Simple](https://businessmadesimple.com/daily/)
+- [Lighthouse](https://getlighthouse.com/blog/). People management.
+- [Harvard Business Review (HBR)](https://hbr.org/email-newsletters)
+- [Financial Times](https://www.ft.com/)
+- [New York Times, On Tech](https://www.nytimes.com/newsletters/on-tech)
+- [Itamar Gilad's High-Impact Product Management](https://itamargilad.com/newsletter/)
+- [Lara Hogan: Wherewithall](https://wherewithall.com/lara/)
+- [Marty Cagan's Silcon Valley Product Group (SVPG)](https://www.svpg.com/articles/)
