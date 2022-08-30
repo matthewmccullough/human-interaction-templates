@@ -24,3 +24,4 @@
 - [Itamar Gilad's High-Impact Product Management](https://itamargilad.com/newsletter/)
 - [Lara Hogan: Wherewithall](https://wherewithall.com/lara/)
 - [Marty Cagan's Silcon Valley Product Group (SVPG)](https://www.svpg.com/articles/)
+- [New York Times Dealbook](https://www.nytimes.com/section/business/dealbook)
