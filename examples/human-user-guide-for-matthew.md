@@ -19,7 +19,7 @@ WHY: It makes it easy for your audience to get context.
 WHY: It gives the recipient a chance to adjust. They can end their current call, defer until later, or grab a glass of water first thus saving the frustration of an unexpected call and coming to the call with more organized thoughts.
 1. WHAT: **Calendar transparency**. I have breakfast, lunch, dinner, and 🔥 time blocked off on my calendar.  
 WHY: In the absence of stating where these live on my calendar, I expect people to guess. A part of my managerial mission is to create greater clarity of the state of all the variables that my colleagues have to deal with.
-1. WHAT: **Wait close by**. I like to "come in for final approach" for a meeting and get very close to the meeting location an hour before the meeting.  
+1. WHAT: **Wait close by**. I like to get very close to the meeting location an hour before the meeting.  
 WHY: This reduces variables such as traffic, mass transit, security, weather, and address confusion.
 
 ## What drives you nuts?
