@@ -4,7 +4,7 @@ In my work with any colleague, I value **promptness**, **work product quality**,
 
 ### How I like to communicate
 
-* **Brevity is best:** Communicate in as [few words](https://have-a-word.com/why-brevity-is-important/) as ~~are absolutely~~ necessary ~~to get your point across to your audience~~.
+* **Brevity is best:** Communicate in as [few words](https://web.archive.org/web/20250630113119/https://growthmodels.co/why-brevity-is-important/) as ~~are absolutely~~ necessary ~~to get your point across to your audience~~.
 * **Hyperlink everything:** I believe in [linking your writing](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) as liberally as possible. It makes it easy for your audience to get context without having to ask.
 
 ### Rituals
@@ -30,7 +30,7 @@ In my work with any colleague, I value **promptness**, **work product quality**,
 
 ### Earning extra credit
 
-* **The Bar is High:** Be reliable, consistent, and predictable. [Human nature says you'll entrust greater responsibility to those who have earned it](https://www.clearerthinking.org/single-post/2017/08/14/This-adorable-game-explains-the-math-behind-interpersonal-trust).
+* **The Bar is High:** Be reliable, consistent, and predictable. [Human nature says you'll entrust greater responsibility to those who have earned it](https://web.archive.org/web/20221225051642/https://www.clearerthinking.org/post/2017/08/14/This-adorable-game-explains-the-math-behind-interpersonal-trust).
 * **Help Me Grow:** Point out my mistakes and help me fix them. I crave help and love collaboration. You can open a pull request on any of my work products, and you will receive my thanks.
 
 ### Long-time mantras
