@@ -24,7 +24,7 @@ In my work with any colleague, I value **promptness**, **work product quality**,
 ### My operating style
 
 * **Be Brief:** I calendar my day in 15-minute increments. We can often do more with less, and I like to start with that mindset. See [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
-* **Prioritize:** I maintain a large task list, often with over 800 items. Your mind is [designed for having ideas, not holding them](https://www.thedolectures.com/david-allen-the-mind-is-for-having-ideas-not-holding-them/).
+* **Prioritize:** I maintain a large task list, often with over 800 items. Your mind is [designed for having ideas, not holding them](https://www.youtube.com/watch?v=nCHd24Gi-G4).
 * **Chat:** While I'm a nerd at heart, I'm ostensibly outgoing. I believe chat's best use is for real-time, unstructured conversations, not for referenceable decisions or escalation.
 * **Intentional Tool Use:** I love to talk with others and learn about their work and tactics. I get a dopamine rush from expanding the space of what I know I don't know, which helps me intentionally choose what to learn next.
 
