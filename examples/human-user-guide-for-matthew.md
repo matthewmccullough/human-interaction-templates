@@ -4,19 +4,19 @@ In my work with any colleague, I value **promptness**, **work product quality**,
 
 ### How I like to communicate
 
-* **Brevity is best:** Communicate in as [few words](http://have-a-word.com/why-brevity-is-important/) as ~~are absolutely~~ necessary ~~to get your point across to your audience~~.
-* **Hyperlink Everything:** I believe in [linking your writing](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) as liberally as possible. It makes it easy for your audience to get context without having to ask.
+* **Brevity is best:** Communicate in as [few words](https://have-a-word.com/why-brevity-is-important/) as ~~are absolutely~~ necessary ~~to get your point across to your audience~~.
+* **Hyperlink everything:** I believe in [linking your writing](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) as liberally as possible. It makes it easy for your audience to get context without having to ask.
 
 ### Rituals
 
-* **Time Permission:** If you need to jump on a call, text me first. A quick "Is now an OK time to talk for X minutes about Y?" gives me a chance to get organized and bring my best self to the conversation.
-* **Calendar Transparency:** I block out time on my calendar for meals and "focus time" to reduce ambiguity. As a leader, I want to create greater clarity for my colleagues to manage their own schedules.
-* **Wait Close By:** For important meetings, I like to "come in for final approach" and get very close to the meeting location about an hour before we start. This reduces variables like traffic or unexpected delays.
+* **Time permission:** If you need to jump on a call, text me first. A quick "Is now an OK time to talk for X minutes about Y?" gives me a chance to get organized and bring my best self to the conversation.
+* **Calendar transparency:** I block out time on my calendar for meals and "focus time" to reduce ambiguity. As a leader, I want to create greater clarity for my colleagues to manage their own schedules.
+* **Wait close by:** For important meetings, I like to "come in for final approach" and get very close to the meeting location about an hour before we start. This reduces variables like traffic or unexpected delays.
 
 ### Red flags
 
-* **Be Prompt:** Meeting attendees being late or running over. If you are unable to manage your time, what does this imply about your ability to manage other valuable efforts and resources?
-* **Own It:** Making excuses for being late. You are in charge of you. You have the power to politely stand up, 3 minutes prior to the end of a meeting, and tell folks you want to be respectful and on time for your next meeting.
+* **Be prompt:** Meeting attendees being late or running over. If you are unable to manage your time, what does this imply about your ability to manage other valuable efforts and resources?
+* **Own it:** Making excuses for being late. You are in charge of you. You have the power to politely stand up, 3 minutes prior to the end of a meeting, and tell folks you want to be respectful and on time for your next meeting.
 * **Be Proactive:** Managing calendars at the last minute. It makes your calendar hygiene issues spill over onto the calendar planning of your colleagues.
 * **Mind the details:** Not using the free/busy state of others prior to calling them or pulling them into a meeting. The signal that you can't be bothered to check the free/busy space of your colleague, prior to asking for some of their time.
 * **Manage your To-Dos:** Not maintaining a task list and having me chase you for status or to remind you of a task you accepted and own. This vastly increases the cost of getting the task done, lowers my trust in the person, and increases my TODO list and stress with the work items of other team members. It pulls us away from autonomy, trust, and and decision-making at the edges.
@@ -33,21 +33,21 @@ In my work with any colleague, I value **promptness**, **work product quality**,
 * **The Bar is High:** Be reliable, consistent, and predictable. [Human nature says you'll entrust greater responsibility to those who have earned it](https://www.clearerthinking.org/single-post/2017/08/14/This-adorable-game-explains-the-math-behind-interpersonal-trust).
 * **Help Me Grow:** Point out my mistakes and help me fix them. I crave help and love collaboration. You can open a pull request on any of my work products, and you will receive my thanks.
 
-### My long-time mantras
+### Long-time mantras
 
 * **Shu, Ha, Ri:** I believe in the [shuhari](https://en.wikipedia.org/wiki/Shuhari) approach of "Do one, pair on one, watch one." It's a three-part model for safely teaching and mentoring, progressing from demonstration to collaborative work to coaching.
-* **Early Warnings:** "It's OK to sometimes disappoint me, but please try not to surprise me." It’s teamwork when we have to deal with bad news. Just let me know as soon as possible so I have time to think and suggest a path forward.
-* **Just Say It:** "Bad news ages like milk, not like cheese." Most bad news is most effectively mitigated when the right people know about it early.
+* **Early warnings:** "It's OK to sometimes disappoint me, but please try not to surprise me." It’s teamwork when we have to deal with bad news. Just let me know as soon as possible so I have time to think and suggest a path forward.
+* **Just say it:** "Bad news ages like milk, not like cheese." Most bad news is most effectively mitigated when the right people know about it early.
 
 ### How I coach people to do their best work
 
-* **Forever Learning:** Be constantly curious. The more ways you add to your toolbelt, the more adaptable you'll be to any situation.
-* **Think Before Acting:** If something intense comes your way, let it simmer for at least five minutes. Sometimes, [deciding not to send that letter](https://www.nytimes.com/2014/03/23/opinion/sunday/the-lost-art-of-the-unsent-angry-letter.html) is the best choice.
+* **Forever learning:** Be constantly curious. The more ways you add to your toolbelt, the more adaptable you'll be to any situation.
+* **Think before acting:** If something intense comes your way, let it simmer for at least five minutes. Sometimes, [deciding not to send that letter](https://www.nytimes.com/2014/03/23/opinion/sunday/the-lost-art-of-the-unsent-angry-letter.html) is the best choice.
 
 ### How I like to get and give feedback
 
-* **Getting Feedback:** Early and often is best, and written first is ideal. Point me to an example of what "good" looks like, and tell me how I can get there.
-* **Giving Feedback:** I prefer to give feedback to people who frequently demonstrate that they crave, accept, and act on it. There's little benefit to giving feedback to unwilling recipients.
+* **Getting feedback:** Early and often is best, and written first is ideal. Point me to an example of what "good" looks like, and tell me how I can get there.
+* **Giving feedback:** I prefer to give feedback to people who frequently demonstrate that they crave, accept, and act on it. There's little benefit to giving feedback to unwilling recipients.
 
 ### Things that people might misunderstand about me
 
