@@ -4,10 +4,13 @@ This is a template to help you create your own human user guide. The goal of a h
 ## About me
 
 ### What are some honest, unfiltered things about you?
-* *Tell us about things that others may not easily discern about you.*
+* I am an introvert
+* I am a morning person
+* I am a trained jazz pianist
 	
 ### What drives you nuts?
-* *Tell us about your pet peeves. These are things that put you in a bad mood.*
+* Disorganization
+* Disrespect
 
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
@@ -18,10 +21,17 @@ This is a template to help you create your own human user guide. The goal of a h
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
-* *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.* 
+* Descriptive
+* Open
+* Friendly
+* Knowledgable
+* Respectful
+* Transparent
 
 ### What do you wish colleagues didn’t do?
-* *Think of the people you avoid at work. What are their characteristics?*
+* Avoid accountability
+* Go along to get along
+* Discriminate
 	
 ### How can people earn an extra gold star with you?
 * *Think of the time when a colleague puts a smile on your face. What did they just do?*
@@ -29,10 +39,15 @@ This is a template to help you create your own human user guide. The goal of a h
 ## About my interactions
 
 ### How do you coach people to do their best work and develop their talents?
-* *Tell us how you like to help others.*
+* Lean into what brings you joy
+* Amplify your natural talents in your work life
+* Always continue learning
 	
 ### What’s the best way to communicate with you?
-* *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
+* Order of preference:
+  1. Slack 
+  2. Quick zoom call
+  3. Email with a slack notification of a quick email summary or mention that there is an email
 	
 ### What’s the best way to convince you to do something?
 * *Tell us how we can change your mind, once it’s made up.*
